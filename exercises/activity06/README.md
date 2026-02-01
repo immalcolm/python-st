@@ -6,3 +6,5 @@ The rate for photocopy in a printing shop is as follows:
 - Over 300 pages: 1 cent per page
 
 Calculate the cost for printing based on the number of pages input.
+
+![Sample Output](activity06-output.png)
